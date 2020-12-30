@@ -109,3 +109,5 @@
 **Today's Progress**: Finished my Gatsby online Coffee shop. https://github.com/rethc/smooth-brew 
 
 **Thoughts:** TODO: CSS styling, Toast notification when users add an item to the cart, Use Material UI or Bootstrap plugin, Custom logos and icons, Look more into Snipcart and styling the modals
+
+Day 19: 29 December 
