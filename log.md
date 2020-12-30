@@ -110,4 +110,6 @@
 
 **Thoughts:** TODO: CSS styling, Toast notification when users add an item to the cart, Use Material UI or Bootstrap plugin, Custom logos and icons, Look more into Snipcart and styling the modals
 
-Day 19: 29 December 
+### Day 19: 29 December, 2020
+
+**Today's Progress**: Working on internship task, Project Talent 
