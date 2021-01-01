@@ -113,3 +113,9 @@
 ### Day 19: 29 December, 2020
 
 **Today's Progress**: Working on internship task, Project Talent 
+
+### Day 20: 31 December, 2020
+
+**Today's Progress**: Released the second version of Gatsby Coffee Shop, now using Material UI for CSS styling.
+
+**Thoughts:** Material UI took me some time to learn and get up to speed, there is plenty of documentation around the theming but i mostly used the CSS overrides. It has React-based components which make it easier than Bootstrap's CSS classes.
