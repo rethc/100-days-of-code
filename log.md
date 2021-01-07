@@ -125,3 +125,9 @@
 **Today's Progress**: Took 2 days break for the 2021 new year. Released v2.5 of my Gatsby Coffee Shop. Refactored my code by deleting classes that does need code duplication and merged it into one functional/class components. Made the font size smaller for a better viewing experience on mobile devices.
 
 **Thoughts:** Looked into techniques to improve performance and speed up the page loading time. I came across this article on the different techniques used to display images in gatsby app. https://using-gatsby-image.gatsbyjs.org/prefer-webp/. I converted my images using Google's WebP Converter tool. As a result it reduced my file sizes by up to 30%. This will help immensely for users on slow 3g networks. 
+
+### Day 24: 7 Janurary, 2021
+
+**Today's Progress**: Completed the Skills, CompanyProfile component in Project Talent. Started working on the Talent feed component in Module 2 of my task.
+
+**Thoughts:** Unable to figure out why the image is not uploading properly in the Profile Photo Component. Getting "Cross-Origin Request Blocked: The Same Origin" error in the ajax requests
