@@ -143,3 +143,15 @@
 **Today's Progress**: Designed my portfolio using next.js and the create-next.js tutorial
 
 **Thoughts:** I found the tutorial to be very easy to follow and the create app is a great starter app blog can be easily customised to a portfolio or some other form of website. It might be my favourite react framework to use. It even has a starter project for an e-commerce site. 
+
+### Day 29: 16 January 2021
+
+**Today's Progress**: I submitted my internship task to be reviewed and deployed it on azure. There were a few bugs in the app that my mentor picked up which I quickly fixed. The photo upload component is still not working due to a cors error. I have asked for help on the internship forums.
+
+**Thoughts:** Not sure what is causing the CORS error as I have already implemented backed methods to handle the upload functionality.
+
+### Day 30: 17 January 2021
+
+**Today's Progress**: I've signed up to freecodecamp and I'm going through the html, css course while there is downtime at work.
+
+**Thoughts:** After seeing freecodecamp recommended on many sites and podcasts I decided to check it out. I can see why it's recommended, it is totally free and the resources are very easy to understand and the excerises are well designed. 
