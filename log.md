@@ -137,3 +137,9 @@
 **Today's Progress**: First week back at work. I took a week off from buidling my projects to read on Javascript programming documents and CS50 course material online. I have enrolled to the CS50 course after seeing it get recommended online. I am really enjoying the lectures. David J. Malan of Harvard University is the best teacher i've ever had, he is very passionate about programming which makes it exciting to watch his classes.
 
 **Thoughts:** Its been a very busy first week back to work. I'm slowly getting back into the routine of 8 hours of work and coding in my spare time. I've been listening to podcasts at work to keep me motivated. Recently discovered egghead.io podcast which i highly recommend!
+
+### Day 28: 15 January 2021
+
+**Today's Progress**: Designed my portfolio using next.js and the create-next.js tutorial
+
+**Thoughts:** I found the tutorial to be very easy to follow and the create app is a great starter app blog can be easily customised to a portfolio or some other form of website. It might be my favourite react framework to use. It even has a starter project for an e-commerce site. 
